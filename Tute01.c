@@ -9,6 +9,8 @@ int main() {
   
   scanf("%d %d", &num1, &num2);
 
+  printf("Hello my name is Menusha \n");
+
   return 0;
 }
 
