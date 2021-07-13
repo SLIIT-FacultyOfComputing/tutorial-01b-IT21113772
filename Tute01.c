@@ -9,10 +9,6 @@ int main() {
   
   scanf("%d %d", &num1, &num2);
 
-  printf("Enter two numbers.\n");
-  printf("Enter two numbers.\n");
-  printf("Enter two numbers.\n");
-
   return 0;
 }
 
