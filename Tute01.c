@@ -6,10 +6,12 @@
 
 int main() {
   int num1, num2;
+  float avg = 0.0;
   
+  printf("Enter two marks : \n");
   scanf("%d %d", &num1, &num2);
 
-  printf("Hello my name is Menusha \n");
+  printf("Average = %.2f", (num1 + num2) / 2.0);
 
   return 0;
 }
